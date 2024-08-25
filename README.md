@@ -50,6 +50,11 @@ You can access the app in your web browser at `localhost:8501`.
 ## Deployed App  
    
 The app is deployed using Streamlit and can be accessed [curelink-ai-dietitian-assistant](https://curelink-ai-dietitian-assistant.streamlit.app/).  
+
+## App Interface
+
+![image](https://github.com/user-attachments/assets/3fd3f440-bc41-40e2-acff-f3bfa598ff25)
+
    
 ## Acknowledgements  
    
