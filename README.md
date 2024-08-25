@@ -51,10 +51,6 @@ You can access the app in your web browser at `localhost:8501`.
    
 The app is deployed using Streamlit and can be accessed [curelink-ai-dietitian-assistant](https://curelink-ai-dietitian-assistant.streamlit.app/).  
    
-## Contributing  
-   
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
-   
 ## Acknowledgements  
    
 This project uses Azure's OpenAI for generating responses and Streamlit for creating the user interface.  
