@@ -111,34 +111,3 @@ def get_chat_history(id):
     formatted_chat.append({"role": previous_role, "content": content.strip()}) 
     
     return formatted_chat, latest_query
-
-
-
-
-# pdf_file_path = '42470.pdf'
-# raw_text = extract_text_from_pdf(pdf_file_path)
-
-
-# # print(raw_text)
-# # Step 1: Preprocess the raw text
-# clean_text = preprocess_text(raw_text)
-
-# # print(clean_text)
-
-# # # Step 2: Create the diet chart dictionary
-# diet_chart = create_diet_chart_dict(clean_text)
-
-# # Print the resulting dictionary
-# for day, chart in diet_chart.items():
-#     print(f"{day}:")
-#     print(chart)
-#     print("\n" + "-"*50 + "\n")
-# pdf_url = json_object[0]['profile_context']['diet_chart_url']
-# save_path = f"{json_object[0]['profile_context']['diet_chart']['id']}.pdf"
-
-# download_pdf(pdf_url, save_path)
-
-# # Example usage
-# pdf_file_path = '42470.pdf'
-# text = extract_text_from_pdf(pdf_file_path)
-# print(text)
