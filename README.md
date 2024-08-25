@@ -1,7 +1,7 @@
 # AI Dietitian Assistant by Curelink  
    
 ## Overview  
-The AI Dietitian Assistant is a machine learning application that uses Azure's OpenAI to provide personalized dietary advice and feedback to patients based on their individual health conditions and diet plans. The application uses Streamlit to provide an interactive user interface.  
+The AI Dietitian Assistant is a AI application that uses Azure's OpenAI to provide personalized dietary advice and feedback to patients based on their individual health conditions and diet plans. The application uses Streamlit to provide an interactive user interface.  
    
 ## Folder Structure  
 ```  
