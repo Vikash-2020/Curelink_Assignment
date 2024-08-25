@@ -1,0 +1,319 @@
+[
+    {
+        "ticket_id": "3a16cf52-26a0-47d6-8c91-9810039676ee",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)"
+            },
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a small metal bowl containing a variety of dried fruits and nuts. Visible items include a dried fig, almonds, walnuts, and raisins. The bowl is placed on a dark fabric surface, possibly someone's lap.) with the following caption Dry fruits."
+            },
+            {
+                "role": "user",
+                "content": "Replied to the following message: \"Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)\", with: \"Methi dana done\""
+            }
+        ],
+        "generated_response": "Great job on having the soaked methi seeds! They are excellent for managing PCOS symptoms and boosting metabolism. However, I noticed that you're also having figs and raisins, which are not included in your diet plan. While these dry fruits are generally healthy, they are high in natural sugars and should be consumed in moderation, especially considering your PCOS condition. Could you let me know why you've added them to your diet? Remember, it's important to stick to your prescribed diet plan for the best results. Keep up the good work!",
+        "ideal_response": "Great job for having methi water, continue having it daily, it will help boost your metabolism.\nVarsha, but i also noticed that you are having figs and raisins but they are not presrcibed in the diet plan, can i know why you have added them ?"
+    },
+    {
+        "ticket_id": "3a078f8d-b2b9-41af-a592-5f1c6cdd0484",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a bowl of a yellow-orange colored dish, likely a type of porridge or savory pudding, with visible black mustard seeds and small pieces of vegetables. A spoon is placed inside the bowl, suggesting it is ready to be eaten. The bowl is placed on a light-colored surface.) with the following caption One bowl vegetable upma."
+            }
+        ],
+        "generated_response": "Good job on having the vegetable upma for breakfast as recommended in your diet plan. It's a great source of nutrients and fiber which is beneficial for your health condition. Keep it up!",
+        "ideal_response": "Varsha, i noticed you are having upma instead of poha as prescribed in your diet plan, can you let me know why ?"
+    },
+    {
+        "ticket_id": "8e342394-8e9f-42d5-9905-52d570fa9c2f",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a close-up of a container with a mixture of food items. It appears to contain chunks of potatoes, oats, and possibly some nuts or seeds, all mixed in a creamy liquid. A spoon is partially visible, indicating that the food is ready to be eaten. The container is placed on a surface with a purple fabric underneath.) with the following caption Breakfast."
+            },
+            {
+                "role": "user",
+                "content": "And yesterday i skipped on dinner \nPhoto click krna bhul gyi thi but i had barley daliya"
+            },
+            {
+                "role": "user",
+                "content": "Today\u2019s weight after clearning stomach 73.4 kg"
+            }
+        ],
+        "generated_response": "Hello! Thank you for sharing your breakfast image and updating me about your meals. \n\nFrom the image, it seems like you're having a mixture of oats and potatoes, possibly with some nuts or seeds. This is a good choice as oats are rich in fiber and can help manage your PCOS symptoms. However, I noticed that this meal is not exactly as prescribed in your diet plan. You were supposed to have Oats Gobhi Cheela, Mint Chutney, and Curd for breakfast. \n\nAs for dinner, you mentioned that you had barley daliya, which is a healthy choice, but it's not part of your prescribed diet plan. You were supposed to have Mixed Vegetable Uttapam Without Oil and Coconut chutney. \n\nRemember, it's important to stick to your diet plan as closely as possible to manage your PCOS symptoms effectively. The diet plan is designed to provide you with the right balance of nutrients and to help regulate your hormone function. \n\nI understand that sometimes it's not possible to follow the diet plan exactly, but try to make substitutions that are as close as possible to the prescribed meal. For example, if you can't have Oats Gobhi Cheela, you could have plain oats with some vegetables. \n\nAlso, don't forget to have your Jeera Water before bed. It helps to improve your metabolic rate and resolve digestive discomforts. \n\nKeep up the good work and remember to take your meals on time. You're doing great! Let's keep going and reach your health goals together.",
+        "ideal_response": "Shobhita, I noticed aap oats le rhe ho, which is a healthy choice, but maine aapki diet mein aloo parantha + curd likha tha, aapne vo nhi khaya ?"
+    },
+    {
+        "ticket_id": "4937b689-8013-4316-80ec-e66447c387c3",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a cup filled with milk. The cup has a design that resembles the texture of a tree trunk with visible rings and cracks. The cup is placed on a table with a colorful, possibly floral, tablecloth. In the background, there is a wooden cabinet with a pair of shoes on one of its shelves.) with the following caption 1 cup of milk without sugar only add one cardamom."
+            }
+        ],
+        "generated_response": "Great job! Having milk without sugar is a healthy choice and adding cardamom not only enhances the flavor but also has numerous health benefits. Keep it up!",
+        "ideal_response": "Great job on following your diet plan, keep it up!"
+    },
+    {
+        "ticket_id": "144d6db8-d7ad-482b-9de3-540bf39127f5",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a white mug filled with a red beverage, placed on a white plate with a blue decorative border. On the plate, there are several almonds and pieces of walnuts. The background appears to be a dark, textured surface.) with the following caption I have done \u2714\ufe0f 7:00am meal \ud83d\ude0b \ud83d\ude0d \ud83d\udc4c."
+            },
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a bowl of cereal with milk placed on a decorative plate. A spoon is partially visible in the bowl, and the setup is on a wooden surface. The cereal appears to be a type of flake cereal.)"
+            }
+        ],
+        "generated_response": "Great job on having your early morning meal as per the diet plan! The cinnamon water, almonds, and walnuts are excellent choices to kickstart your metabolism for the day. \n\nHowever, I noticed that your breakfast seems to be a bowl of cereal with milk, which is not part of today's diet plan. You were supposed to have a bowl of Sprouts Paneer Salad. The salad is rich in protein and fiber, which can help you feel full and satisfied, aiding in weight management. \n\nRemember, it's important to stick to the diet plan as closely as possible for the best results. If you're having trouble preparing or enjoying any of the meals in the plan, please let me know so we can discuss possible alternatives. Keep up the good work!",
+        "ideal_response": "Great job sticking to your meal plan! Keep it up!"
+    },
+    {
+        "ticket_id": "8a280b8a-26ab-40f5-bb1d-22b1aa4e47f3",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a stainless steel plate containing a serving of cooked food, which appears to be a grain-based dish with vegetables, possibly upma or khichdi. There is also a portion of green chutney or sauce on the side, and a spoon is placed on the plate.) with the following caption Beark fast."
+            }
+        ],
+        "generated_response": "Hello! It looks like you're having a grain-based dish, possibly Upma, for breakfast which is great! This aligns with your diet plan. Upma is a good source of energy and it keeps you full for a longer period, helping in weight management. The green chutney on the side is a good addition as it is rich in antioxidants and aids digestion. \n\nRemember to have a glass of toned milk after 20 minutes as recommended in your diet plan. This will provide you with essential nutrients like calcium and protein. \n\nKeep up the good work and continue following your diet plan. It's designed to help manage your PCOS and weight. Let's stay on track!",
+        "ideal_response": "Great job aarti, why have you not included milk ?"
+    },
+    {
+        "ticket_id": "15d414f1-3afc-4b4b-adc6-fafc3eaf3f8f",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a close-up of a bowl containing pomegranate seeds and almond slices. The bowl is metallic, and there is a spoon inside it. The background appears to be a tablecloth with a partial view of a colorful design.) with the following caption Pomegranate with 1 spoon seasme seeds and 1 spoon  sunflower seeds."
+            }
+        ],
+        "generated_response": "Great job! Pomegranate is a good source of dietary fiber and vitamins, and adding sesame and sunflower seeds not only enhances the taste but also provides healthy fats and proteins. Keep it up!",
+        "ideal_response": "Great job, keep it up! Sesame and sunflower seeds are great source of omega 3 fatty acid which help regulate your period cycle."
+    },
+    {
+        "ticket_id": "158e30e7-eb1b-4986-8515-05180028d296",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "1 Nariyal Panni"
+            }
+        ],
+        "generated_response": "Great choice! Coconut water, or \"Nariyal Panni\", is a fantastic hydrating drink. It's packed with essential electrolytes and minerals, which can help replenish your body, especially in hot weather. However, it's not included in your current diet plan. If you're feeling thirsty, remember to drink at least 3 liters of water daily as per your diet plan. Keep up the good work!",
+        "ideal_response": "Good job, coconut water is great source of potassium. Why have you not included seeds with this ?"
+    },
+    {
+        "ticket_id": "1bc93246-b66f-409f-bbc1-dfec4cd2ae8d",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a plate with a few pieces of food, possibly idli, which is a type of South Indian steamed rice cake. There is also a small amount of white sauce or chutney on the plate. The plate has a simple design with a green dot and black lines. The background includes a colorful, floral-patterned tablecloth.) with the following caption Idly with chutney."
+            }
+        ],
+        "generated_response": "Hello! I see that you've had idli with chutney. While idli is a healthy choice due to its fermentation process which enhances its bioavailability of nutrients, it's not part of your prescribed diet plan for today. \n\nYour breakfast should have been Moong Dal Cheela with Mint Chutney. Moong Dal Cheela is a great source of protein and fiber, which can help you feel full and satisfied, aiding in weight management. \n\nI understand that you might have preferences or circumstances that led to this choice. However, it's important to stick to the diet plan as much as possible for the best results. \n\nRemember, your diet plan is designed to help manage your weight and control your hypertension and asthma symptoms. It's also tailored to help alleviate your constipation complaint. \n\nIf you're finding it difficult to follow the diet plan, please let me know so we can discuss possible adjustments. Keep up the good work and remember, every step counts towards your health goals!",
+        "ideal_response": "Rupa, I noticed that you were prescribed mixed veg vermicili, can you let know why are you having idli ?"
+    },
+    {
+        "ticket_id": "e2ef7155-002b-4bdf-a8ef-270a8c59b025",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a meal served on a metal plate. The meal includes:\n\n1. A stuffed paratha (Indian flatbread).\n2. A serving of green chutney.\n3. A bowl with three boiled eggs in a yellowish liquid, likely a curry.\n4. A bowl of sliced cucumbers.\n5. A glass of buttermilk or yogurt with herbs sprinkled on top.\n\nThe plate is placed on a patterned tablecloth.) with the following caption 2 Oats wheat roti add veggies.. and coriander chutni nd little onion sbji nd I added mint and cumin in  buttermilk."
+            },
+            {
+                "role": "user",
+                "content": "Wd salad"
+            }
+        ],
+        "generated_response": "Great job on incorporating oats and wheat in your roti, it's a good source of fiber which is beneficial for PCOS. However, I noticed that you have eggs in your meal which is not included in your diet plan. As a vegetarian, it's important to stick to the prescribed diet. Also, remember to include Punjabi chole and curd in your lunch as per the diet plan. Keep up the good work with the buttermilk and salad!",
+        "ideal_response": "Great job for having oats roti, salad and curd, but i noticed you are not having lauki chana dal as prescribed in the diet plan, can you let me know the reason ?"
+    },
+    {
+        "ticket_id": "ca331178-80da-48f8-a3a5-d483fa0391ea",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a bowl with a floral pattern containing pieces of orange fruit, likely papaya, sprinkled with sesame seeds and sunflower seeds. There is a spoon in the bowl, suggesting the dish is ready to be eaten. The bowl is placed on a grey countertop.) with the following caption I have done \u2714\ufe0f meal 11:30am."
+            },
+            {
+                "role": "user",
+                "content": "Sent an image (This image is a detailed meal plan for Day 4, Friday, dated 14-06-2024. It outlines specific foods and beverages to be consumed at various times throughout the day, along with their quantities and some preparation instructions. The schedule includes:\n\n- **Early Morning (08:00 AM):** Cinnamon water, soaked almonds, and soaked walnuts.\n- **Breakfast (10:00 AM):** Apple cinnamon overnight oats.\n- **Mid Meal (11:00 AM):** Pomegranates and coconut water.\n- **Lunch (02:00 PM):** Bajra roti, plain toor dal, curd, and tomato cucumber salad.\n- **Evening (05:00 PM):** Spearmint tea, roasted kala chana, flax seeds, and pumpkin seeds.\n- **Dinner (08:00 PM):** Boiled sprouts with cucumber and tomato.\n- **Post Dinner (10:00 PM):** Jeera water.\n\nThe plan also includes some nutritional tips and preparation notes for each meal.)"
+            },
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a packet of milk from Mother Dairy placed on a countertop. In front of the milk packet, there is a bowl containing a mixture of seeds and nuts, possibly in yogurt or milk. The seeds and nuts include pumpkin seeds, flax seeds, and other assorted seeds.) with the following caption I have done before 30 minutes  drink  \ud83c\udf78 Buttermilk."
+            }
+        ],
+        "generated_response": "Great job on sticking to your meal plan for the early morning and mid-meal! The soaked almonds, walnuts, and papaya with seeds are all excellent choices that align with your diet plan. \n\nHowever, I noticed that you had buttermilk, which is not included in your diet plan. While buttermilk is a good source of probiotics, it's important to stick to your prescribed diet plan for optimal results. \n\nFor your next meal, make sure to have the Bajra roti, plain toor dal, curd, and tomato cucumber salad as outlined in your lunch plan. Keep up the good work and remember to stay hydrated!",
+        "ideal_response": "Great job! I just checked, you are having sunflower and sesame seeds, but i have mentioned pumpkin and flax seeds in your diet ."
+    },
+    {
+        "ticket_id": "ffa2b043-7c9f-43e3-b434-7f874f01b916",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a plate with a floral design containing several small, rectangular pieces of white cheese, likely paneer. The plate is placed on a surface with a patterned cloth.)"
+            },
+            {
+                "role": "user",
+                "content": "Replied to the following message: \"Sent an image (The image shows a plate with a floral design containing several small, rectangular pieces of white cheese, likely paneer. The plate is placed on a surface with a patterned cloth.)\", with: \"Only Salad \ud83e\udd57 \ud83d\ude0b\""
+            }
+        ],
+        "generated_response": "Great job on having the salad! Remember, salads are a great source of fiber and can help improve your metabolic rate. Keep up the good work!",
+        "ideal_response": "Charleen, why are you having only paneer ?"
+    },
+    {
+        "ticket_id": "206b8b1e-25f6-48fb-9271-524f1752f27c",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a meal consisting of a plate with sliced cucumbers and tomato wedges, and a metal tray with flatbreads (possibly chapati or roti), a bowl of curry, and a bowl of yogurt or raita. The setting appears to be on a table with a patterned tablecloth.) with the following caption Lunch."
+            }
+        ],
+        "generated_response": "Thank you for sharing your lunch meal. It seems like you're having a balanced meal with vegetables, protein, and carbohydrates. However, according to your diet plan, you were supposed to have Vegetable Pulao, Cucumber Raita, and Vegetable Salad. \n\nWhile the meal you're having is not unhealthy, it's important to stick to the prescribed diet plan for effective weight management and to manage your PCOS symptoms. \n\nRemember, consistency is key in achieving your health goals. Keep up the good work and try to follow the diet plan as closely as possible.",
+        "ideal_response": "Aarti, aap konsi sabzi kha rhe ho ?"
+    },
+    {
+        "ticket_id": "cb61d429-1350-41e0-b312-e83a01be382b",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Yes mam I added later"
+            }
+        ],
+        "generated_response": "Great! Including raita in your meals is a good way to incorporate probiotics for improving your gut health. Keep up the good work!",
+        "ideal_response": "Try to share picture of the entire meal, so that we can review accordingly. Keep it up!"
+    },
+    {
+        "ticket_id": "699bb2fa-0192-47df-ae49-dafd50c42238",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a metal bowl containing a mix of roasted peanuts and puffed lotus seeds (makhana). The bowl is placed on a beige fabric with a pink embroidered design.)"
+            },
+            {
+                "role": "user",
+                "content": "1 glass milk @ 11:30"
+            },
+            {
+                "role": "user",
+                "content": "Replied to the following message: \"Sent an image (The image shows a metal bowl containing a mix of roasted peanuts and puffed lotus seeds (makhana). The bowl is placed on a beige fabric with a pink embroidered design.)\", with: \"@ 2:30\""
+            }
+        ],
+        "generated_response": "It seems like you're having a healthy snack with roasted peanuts and puffed lotus seeds (makhana), which is a good source of protein and fiber. However, according to your diet plan, you should be having an apple and mixed seeds at 11:30 AM. \n\nAlso, milk is not included in your mid-meal snack. If you feel hungry, you can have fruits, nuts, and roasted makhana without salt as suggested in your diet plan. \n\nRemember, it's important to stick to your diet plan for effective weight management. Keep up the good work and make sure to follow your diet plan closely.",
+        "ideal_response": "Great choice, makhana and peanuts are rich in calcium and protien."
+    },
+    {
+        "ticket_id": "53a39079-04ce-440f-8fe6-4a6d1e6a570d",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a plate of food that includes a bowl of yellow lentil soup (dal) with a spoon in it, a piece of flatbread (roti), some cooked vegetables, and a slice of raw onion. The plate is placed on a table with a patterned tablecloth. A person's foot wearing a sandal is visible at the bottom of the image.) with the following caption Moong dal , little cabbage, jowar roti for lunch."
+            }
+        ],
+        "generated_response": "Great job on following your diet plan! Your lunch aligns well with the recommended meal. Moong dal is a great source of protein and dietary fiber, which can help you feel full and satisfied. The cabbage is a good source of vitamins and minerals, and jowar roti is a healthier alternative to regular wheat roti due to its high fiber content. Keep up the good work! Remember to drink plenty of water throughout the day to stay hydrated and aid digestion.",
+        "ideal_response": "Your meal looks good, you can add curd and more salad in your meal to make it complete."
+    },
+    {
+        "ticket_id": "caf28ae3-7327-4f61-ae15-2c18597d8e3e",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a small metal bowl filled with puffed snacks, likely makhana (fox nuts), and a ceramic cup with a wooden texture design containing a yellowish liquid, possibly tea. The items are placed on a fabric surface with a striped pattern visible in the background.) with the following caption Makhana nd spearmint tea."
+            }
+        ],
+        "generated_response": "Great job! Makhana and spearmint tea are excellent choices for your evening snack. Makhana is a good source of protein and low in calories, making it a healthy snack. Spearmint tea is known for its potential benefits in managing PCOS symptoms. Keep up the good work!",
+        "ideal_response": "Nice choice! Makhana and spearmint tea are great for your diet. Keep it up!"
+    },
+    {
+        "ticket_id": "9f991db6-ed10-4613-b597-040ae4cf6d92",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "i had bhindi and oats roti 2 in lunch a"
+            },
+            {
+                "role": "user",
+                "content": "and right now i had 2 apple pealed"
+            },
+            {
+                "role": "user",
+                "content": "i forgot to click pictures due to office hours"
+            }
+        ],
+        "generated_response": "That's alright. It's great to see that you're sticking to your diet plan. Bhindi (okra) is a good source of fiber, vitamin C, and folate which are beneficial for your PCOS condition. Oats roti is a healthier alternative to regular wheat roti as it is high in fiber and helps in managing blood sugar levels. \n\nApples are a good source of dietary fiber and vitamin C. They are also low in calories and high in water content, which can help you feel full. \n\nRemember, consistency is key in managing PCOS. Keep up the good work!",
+        "ideal_response": "Good shobhita, I hope you had curd and salad along with roti and bhindi. Also, I would suggest you to have 1 apple instead of 2 and after how much gap did you have the apples ?"
+    },
+    {
+        "ticket_id": "d9cc7206-f263-4e5f-a095-f3dbb12d3fcc",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a glass container filled with a colorful vegetable and tofu stir-fry. The dish includes red, green, and yellow bell peppers, tomatoes, and tofu cubes, all mixed together. The container is placed on a wooden surface, and part of a person's arm, a bottle of hand sanitizer, and a laptop are visible in the background.) with the following caption Dinner."
+            }
+        ],
+        "generated_response": "That's a colorful and nutritious dinner! However, your diet plan for dinner was Mixed Vegetable Uttapam Without Oil and Coconut chutney. While your stir-fry is healthy, it's important to stick to the prescribed diet plan for managing your PCOS symptoms effectively. \n\nRemember, the diet plan is designed to provide you with the right balance of nutrients and to regulate your hormone function. \n\nFor tomorrow, try to follow the diet plan as closely as possible. If you're finding it difficult to prepare certain meals due to time constraints, let me know. We can work together to find a solution that suits your lifestyle and health needs. Keep up the good work!",
+        "ideal_response": "Shobhita, as mentioned on your diet chart, your dinner was planned at 8pm, any reasons why you are taking it so early ?"
+    },
+    {
+        "ticket_id": "7bcaa083-5f9e-4142-9976-9172ed6e5c90",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Also i had lemon tea with it"
+            }
+        ],
+        "generated_response": "That's great! Lemon tea is a good source of vitamin C and can help in digestion. Keep up the good work!",
+        "ideal_response": "Prefer to maintain a gap of 20-30 mins between Solid foods and fluids to ensure better absorption rate"
+    },
+    {
+        "ticket_id": "84447c63-2773-488c-a799-c1702c200bff",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Lemon water m honey or salt add kr skte h n?"
+            },
+            {
+                "role": "user",
+                "content": "Jeera water or souf water add nh kr skte kya?"
+            },
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a close-up of a bowl of cooked food, likely a type of soup or stew. The dish appears to contain small grains or lentils, along with pieces of vegetables and possibly some spices. The food has a reddish-brown color, indicating it might be seasoned with spices or a tomato-based sauce. A spoon is partially visible in the bowl.) with the following caption Vegetable dalia."
+            }
+        ],
+        "generated_response": "Yes, you can add a small amount of honey to your lemon water, but avoid adding salt as it can lead to water retention. Jeera (cumin) water and saunf (fennel) water are also good options for aiding digestion and boosting metabolism.\n\nThe vegetable dalia you've prepared looks delicious and nutritious! It's a great source of fiber and will help keep you feeling full and satisfied. Just remember to keep your portion sizes in check. Keep up the good work!",
+        "ideal_response": "You can add honey to lemon water but skip the salt. Jeera water and sauf ka pani is fine, Your vegetable dalia looks good! Keep it up!"
+    },
+    {
+        "ticket_id": "42eed415-aee2-4ced-8772-89c086b779dc",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Night drink"
+            },
+            {
+                "role": "user",
+                "content": "Ajwain"
+            }
+        ],
+        "generated_response": "Great! Ajwain (carom seeds) water is a good digestive aid and can help with bloating and indigestion. However, it's not included in your current diet plan. Your post-dinner drink should be turmeric warm water, which has anti-inflammatory properties and can help with pain and swelling. Please stick to your diet plan for the best results. Keep up the good work!",
+        "ideal_response": "Great choice! Ajwain water is excellent for digestion. Keep it up!"
+    },
+    {
+        "ticket_id": "05c707a6-aa65-4411-be6a-834af5df2ddd",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a metallic cup filled with a brown liquid, likely tea or coffee, with a metallic spoon inside. The cup is placed on a textured surface, possibly a cloth or towel.) with the following caption Turmeric water."
+            }
+        ],
+        "generated_response": "Great job! Turmeric water is a good choice for your health. It has anti-inflammatory properties and can help boost your immune system. Keep it up!",
+        "ideal_response": "Great choice, the diet plan mentioned popcorn but you are having makahna which are even healthier and a great source of fiber and calcium."
+    }
+]
