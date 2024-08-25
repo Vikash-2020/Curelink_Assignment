@@ -33,7 +33,9 @@ Install the required packages.
 ```bash  
 pip install -r requirements.txt  
 ```  
-   
+
+Update the `app_secrets.py` file with your Azure OpenAI API credentials. Replace `'YOUR_AZURE_ENDPOINT'`, `'YOUR_AZURE_OPENAI_KEY'`, `'DEPLOYMENT_OR_MODEL_NAME'`, and `'AZURE_OPENAI_API_VERSION'` with your actual Azure Endpoint, Azure OpenAI Key, model name, and Azure OpenAI API version respectively.  
+
 Run the application.  
 ```bash  
 streamlit run main.py  
